@@ -50285,7 +50285,7 @@ return A.cC(A.b([A.im(B.a9q,s,s,256),A.ck(s,64,s),A.bt("Thank You",s,s,s,s,s,s,s
 $S:862}
 A.aAK.prototype={
 $1(a){var s=null
-return A.de(new A.bb(new A.aO(64,0,64,0),new A.H9("https://github.com/vishna/string_story",A.O(this.a).ax.c,s),s),s,s)},
+return A.de(new A.bb(new A.aO(64,0,64,0),new A.H9("https://gist.github.com/vishna/608a9edf1a853547550d3d61f4049960",A.O(this.a).ax.c,s),s),s,s)},
 $S:74}
 A.a0I.prototype={
 D(a){return new A.dO(new A.aAO(),null)}}
