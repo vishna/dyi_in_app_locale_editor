@@ -1,0 +1,13 @@
+{
+  "architecture": "Architecture",
+  "architectureEditorPoint1": "Short lived",
+  "architectureEditorPoint2": "Iherits state from base",
+  "architectureEditorPoint3": "Manages editing UI",
+  "architectureEditorPoint4": "Commits to base",
+  "architectureCodeComment1": "invoke editor",
+  "architectureCodeComment2": "or inspect available keys",
+  "architectureBasePoint1": "The source of truth™",
+  "architectureBasePoint2": "Loads locale map",
+  "architectureBasePoint3": "Applies diffs from editor",
+  "architectureBasePoint4": "Persists user's changes"
+}
